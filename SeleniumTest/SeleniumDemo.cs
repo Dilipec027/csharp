@@ -85,7 +85,7 @@ namespace SeleniumTest
             Assert.IsTrue(true);
             //    Console.WriteLine("Hello how are you");
             //    Console.Read();
-            //    System.Diagnostics.Debug.WriteLine("my string");
+            System.Diagnostics.Debug.WriteLine("hello");          
             //    Trace.WriteLine("This line will show on Output window");
             //    Trace.Flush();
         }
